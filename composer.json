@@ -16,5 +16,5 @@
             "Memory\\LaravelGravatar": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "develop"
 }
