@@ -1,0 +1,20 @@
+{
+    "name": "memory/laravel-gravatar",
+    "description": "",
+    "authors": [
+        {
+            "name": "memory",
+            "email": "memeq1986@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Memory\\LaravelGravatar": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
